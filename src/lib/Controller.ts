@@ -1,0 +1,1 @@
+import { defineComponent } from "./core";

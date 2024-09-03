@@ -1,0 +1,10 @@
+{
+  "appID": "",
+  "appName": "",
+  "appVersion": "1.0.0",
+  "stage": "done",
+  "db": {
+
+    "chiper": "sqlite3"
+  }
+}
